@@ -48,7 +48,7 @@
 
 	<hr>
 	<footer>
-		<p>&copy; Greens Technology 2021</p>
+		<p>&copy; Devops World 2021</p>
 	</footer>
 </div>
 
