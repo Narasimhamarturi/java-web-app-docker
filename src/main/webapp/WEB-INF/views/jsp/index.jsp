@@ -40,7 +40,7 @@
 
 	<div class="row">
 		<div class="col-md-8">
-			<h2>Welcome To Cloud platform,Green Technology,Perumbakkam,Chennai</h2>
+			<h2>Welcome To Cloud platform,Devops Engineer,Narasimha,Hyderabad</h2>
 			<h3>Contact @ +91-9493864489 & +91-7207476271 </h3>
 		</div>	
 	</div>
